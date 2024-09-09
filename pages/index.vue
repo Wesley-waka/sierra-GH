@@ -2,30 +2,7 @@
   <Navbar />
   <div>
     <!-- Navigation -->
-    <!-- <nav class="mybg p-4">
-      <div class="container mx-auto flex justify-between items-center">
-        <NuxtLink to="/" class="text-xl font-bold">
-          <img src="/assets/images/sierra.svg" alt="Sierra logo" class="h-12">
-        </NuxtLink>
-        <div class="hidden md:flex space-x-4">
-          <NuxtLink to="/" class="hover:text-green-200">Home</NuxtLink>
-          <NuxtLink to="/about-us" class="hover:text-green-200">About</NuxtLink>
-          <NuxtLink to="/services" class="hover:text-green-200">Services</NuxtLink>
-          <NuxtLink to="/contact" class="hover:text-green-200">Contact</NuxtLink>
-        </div>
-        <button @click="toggleMenu" class="md:hidden text-white focus:outline-none">
-          <svg class="h-6 w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7"></path>
-          </svg>
-        </button>
-      </div>
-      <div v-if="isMenuOpen" class="md:hidden mt-2">
-        <NuxtLink to="/" class="block text-white py-2">Home</NuxtLink>
-        <NuxtLink to="/about" class="block text-white py-2">About</NuxtLink>
-        <NuxtLink to="/services" class="block text-white py-2">Services</NuxtLink>
-        <NuxtLink to="/contact" class="block text-white py-2">Contact</NuxtLink>
-      </div>
-    </nav> -->
+
 
 
     <!-- Main Content -->

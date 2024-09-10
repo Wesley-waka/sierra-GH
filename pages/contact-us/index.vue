@@ -11,9 +11,9 @@
         </div>
     </nav>
 
-<!--  done-->
+    <!--  done-->
 
-<!--  create changes in contact-->
+    <!--  create changes in contact-->
     <div class="flex md:flex-row flex-col md:space-y-0 space-y-8 md:space-x-6 my-10 max-w-[800px] mx-auto items-center">
         <div
             class="flex flex-col my-auto bg-white border shadow-sm rounded-xl dark:bg-neutral-100 md:h-[400px] h-[300px] md:w-[500px] w-[250px] dark:border-neutral-300 dark:shadow-neutral-50/70">
@@ -25,7 +25,7 @@
                     </h3>
                 </div>
                 <p class="mt-2 text-gray-600 text-[20px] dark:text-neutral-400 text-center">
-                    +254729770974
+                    ++1(917) 6094-597
                 </p>
 
             </div>
@@ -41,7 +41,7 @@
                     </h3>
                 </div>
                 <p class="mt-2 text-gray-600 text-[20px] dark:text-neutral-400 text-center">
-                    NY,USA
+                    USA, NewYork
                 </p>
 
             </div>
@@ -57,7 +57,7 @@
                     </h3>
                 </div>
                 <p class="mt-2 text-gray-600 text-[20px] dark:text-neutral-400 text-center">
-                    +1923244
+                    +1(917) 6094-597
                 </p>
 
             </div>

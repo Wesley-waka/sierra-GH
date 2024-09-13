@@ -25,7 +25,7 @@
                     </h3>
                 </div>
                 <p class="mt-2 text-gray-600 text-[20px] dark:text-neutral-400 text-center">
-                    ++1(917) 6094-597
+                    +1-917-609-4597
                 </p>
 
             </div>
